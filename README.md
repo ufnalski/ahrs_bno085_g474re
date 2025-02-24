@@ -16,7 +16,8 @@ Don't worry :slightly_smiling_face: Just hit Alt-K to generate /Drivers/CMCIS/ a
 * [SparkFun VR IMU BNO08X Arduino Library](https://github.com/sparkfun/SparkFun_BNO08x_Arduino_Library) (SparkFun)
 
 # Readings
-* [SH-2 Reference Manual](https://www.ceva-ip.com/wp-content/uploads/2019/10/SH-2-Reference-Manual.pdf) (CEVA)
+* [Sensor Hub Transport Protocol](https://cdn.sparkfun.com/assets/7/6/9/3/c/Sensor-Hub-Transport-Protocol-v1.7.pdf) (CEVA, Hillcrest Labs)
+* [SH-2 Reference Manual](https://www.ceva-ip.com/wp-content/uploads/2019/10/SH-2-Reference-Manual.pdf) (CEVA, Hillcrest Labs)
 * [BNO08X Data Sheet](https://www.ceva-ip.com/wp-content/uploads/2019/10/BNO080_085-Datasheet.pdf) (CEVA)
 * [Adafruit 9-DOF Orientation IMU Fusion Breakout - BNO085](https://learn.adafruit.com/adafruit-9-dof-orientation-imu-fusion-breakout-bno085) (Adafruit)
 * [CEVA BNO085 Absolute Orientation Sensor System User Guide](https://device.report/manual/12339730)
